@@ -1,0 +1,144 @@
+﻿﻿
+@model IEnumerable<_4232_pp.Models.Product>
+@{
+    ViewData["Title"] = "ФармаПрофи";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="/css/MainWindow.css" />
+    <title>Лекарство для счастья</title>
+</head>
+<body>
+    <header>
+        <div class="headerMenu1">
+            <a href="@Url.Action("AptekaBD","Home")">Товары</a>
+            <p>Преимущества</p>
+        </div>
+
+        <div class="headerLogo">
+            <img src="~/img/логотип.png" alt="logo" width="300" height="50">
+        </div>
+
+        <div class="headerMenu2">
+            <p>Отзывы</p>
+            <p>Контакты</p>
+        </div>
+
+        <div class="headerActions">
+            @if (!string.IsNullOrEmpty(ViewBag.UserId))
+            {
+                <a href="@Url.Action("Index", "Profile")">Профиль</a>
+                <a href="@Url.Action("Cart", "Home")">Перейти в корзину</a>
+            }
+            else
+            {
+                <a href="@Url.Action("GetReg", "Registration")">Зарегистрироваться</a>
+                <a href="@Url.Action("SignInPage", "SignIn")">Войти в систему</a>
+            }
+            <div class="bdbutton">
+                @if (!string.IsNullOrEmpty(ViewBag.UserId))
+            {
+                <form method="post" action="@Url.Action("Logout", "Home")">
+                    <button type="submit">Выйти из аккаунта</button>
+                </form>
+            }
+            </div>
+            
+           
+        </div>
+
+    </header>
+
+
+    <main>
+        <div class="fon">
+            <div class="sloganWrapper">
+                <div class="slogan">
+                    <p> Фарма профи - забота</p>
+                    <p class="sloganP">о вашем здоровье</p>
+                </div>
+                
+                <div class="sloganniz">
+                    <p>Широкий ассортимент товаров для здоровья в нашей аптеке</p>
+         
+                </div>
+                <div class="bdbutton">
+                    <h4 id="product"><a href="@Url.Action("AptekaBD","Home")">Узнать больше</a></h4>
+                </div>
+            </div>
+        </div>
+
+        <div class="advantages">
+            <h1>Почему выбирают ФармПрофи</h1>
+            <div class="images">
+                <div class="image">
+                    <img src="/img/огонь.png" alt="Image 1">
+                    <p class="title">Широкий выбор лекарств</p>
+                    <p class="description">Найдите всё необходимое в одном месте</p>
+                </div>
+                <div class="image">
+                    <img src="/img/лайк.png" alt="Image 2">
+                    <p class="title">Качественные товары</p>
+                    <p class="description">Доверьтесь профессионализму наших специалистов</p>
+                </div>
+                <div class="image">
+                    <img src="/img/молния.png" alt="Image 3">
+                    <p class="title">Забота о вашем здоровье</p>
+                    <p class="description">Мы помогаем вам чувствовать себя счастливыми</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="fon2">
+            <div class="content">
+                <h1>ФармаПрофи прямо около вашего дома</h1>
+                <p>Продажа товаров для здоровья от настоящих профессионалов</p>
+                <button>Зарегистрироваться</button>
+            </div>
+        </div>
+
+        <div class="container">
+            <h1>Лекарство для счастья - ваш путь к здоровью и благополучию</h1>
+            <p class="description">Оставьте свой отзыв о нашей аптеке и улучшите наш сервис</p>
+            <div class="reviews">
+                <div class="review1">
+                    <img src="/img/аватарка.png" alt="Photo 1">
+                    <p class="text">Благодаря ФармаПрофи я всегда</p>
+                    <p class="text"> нахожу нужные препараты</p>
+                    <p class="name">Иван</p>
+                </div>
+                <div class="review2">
+                    <img src="/img/аватарка.png" alt="Photo 2">
+                    <p class="text">ФармаПрофи важно для нашей семьи</p>
+                    <p class="name">Алексей</p>
+                </div>
+                <div class="review3">
+                    <img src="/img/аватарка.png" alt="Photo 3">
+                    <p class="text">Профессиональные консультанты</p>
+                    <p class="text">помогли мне выбрать лучшее</p>
+                    <p class="name">Марина</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="black-bg">
+            <div class="cotactinfo">
+                <p>Контактная информация</p>
+                <div class="socialMedia">
+                    <img src="/img/вк.png" alt="vk">
+                    <img src="/img/инста.png" alt="inst">
+                    <img src="/img/телега.png" alt="telegramm">
+                </div>
+            </div>
+        </div>
+    </footer>
+   
+</body>
+</html>

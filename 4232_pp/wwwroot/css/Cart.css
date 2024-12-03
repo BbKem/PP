@@ -1,0 +1,93 @@
+﻿
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #f2f2f2;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+    background-color: #f2f2f2;
+}
+
+#MainTable {
+    margin-top: 20px;
+}
+
+#TitleTable {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+#returnbutton {
+    text-align: left;
+    margin-top: 20px;
+}
+
+    #returnbutton a {
+        background-color: blue;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 10px;
+        text-decoration: none;
+    }
+
+        #returnbutton a:hover {
+            background-color: darkblue;
+        }
+
+
+#searchForm {
+    margin-bottom: 20px;
+}
+
+#searchInput {
+    width: 300px;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+    #searchInput:focus {
+        outline: none;
+        border-color: #007bff;
+    }
+
+/* Общие стили для заголовка и шапки страницы */
+header {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("../img/gray-wall-textures-for-background.jpg");
+    background-size: cover;
+}
+
+button[type="submit"] {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+    button[type="submit"]:hover {
+        background-color: darkblue;
+    }

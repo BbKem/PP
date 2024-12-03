@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Профиль пользователя</title>
+    <link rel="stylesheet" href="~/css/Profile.css" />
+</head>
+<body>
+    <header>
+        <img src="~/img/логотип.png" alt="logo" width="300" height="50">
+
+    </header>
+
+    <a href="@Url.Action("Index", "Home")">Вернуться на главную</a>
+    <a href="@Url.Action("Cart", "Home")">Перейти в корзину</a>
+
+
+    <div class="container">
+        <h3>Профиль пользователя</h3>
+        <p>Имя: @Model.Name</p>
+        <p>Email: @Model.Email</p>
+
+        <form method="post" action="~/Profile/UpdateAccount">
+            <input type="hidden" name="userId" value="@Model.UserId" />
+            <label>Новое имя:</label>
+            <input type="text" name="newName" autocomplete="off" />
+            <input type="submit" value="Изменить имя" />
+        </form>
+
+        <form method="post" action="~/Profile/UpdateAccount">
+            <input type="hidden" name="userId" value="@Model.UserId" />
+            <label>Новый пароль:</label>
+            <input type="text" name="newPassword" autocomplete="off" />
+            <input type="submit" value="Изменить пароль" />
+        </form>
+
+        <form method="post" action="~/Profile/DeleteAccount">
+            <input type="hidden" name="userId" value="@Model.UserId" />
+            <input type="submit" value="Удалить аккаунт" class="delete-button" />
+        </form>
+
+        <a href="@Url.Action("Orders", "Home")">Мои заказы</a>
+    </div>
+</body>
+</html>

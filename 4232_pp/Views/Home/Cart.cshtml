@@ -1,0 +1,56 @@
+﻿@model IEnumerable<_4232_pp.Models.CartItem>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Корзина</title>
+    <link rel="stylesheet" href="~/css/Cart.css" />
+</head>
+<body>
+
+    <header>
+        <img src="~/img/логотип.png" alt="logo" width="300" height="50">
+    </header>
+
+    <a href="@Url.Action("Index", "Home")">Вернуться на главную</a>
+
+    <div class="container">
+        <h3>Корзина</h3>
+        @if (Model != null && Model.Any())
+        {
+            <table>
+                <tr>
+                    <th>Название</th>
+                    <th>Цена</th>
+                    <th>Количество</th>
+                    <th></th>
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Product.Name</td>
+                        <td>@item.Product.Price</td>
+                        <td>@item.Quantity</td>
+                        <td>
+                            <form method="post" action="@Url.Action("RemoveFromCart", "Home")">
+                                <input type="hidden" name="cartItemId" value="@item.CartItemId" />
+                                <button type="submit">Удалить</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </table>
+
+            <p>Общая стоимость: @Model.Sum(item => item.Quantity * item.Product.Price)</p>
+
+            <form method="post" action="@Url.Action("PlaceOrder", "Home")">
+                <button type="submit">Оформить заказ</button>
+            </form>
+        }
+        else
+        {
+            <p>Корзина пуста</p>
+        }
+    </div>
+</body>
+</html>

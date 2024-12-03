@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Вход</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/SignIn.css" />
+</head>
+<body>
+    <header>
+        <img src="~/img/логотип.png" alt="logo" width="300" height="50">
+    </header>
+
+    <form method="post" action="~/SignIn/SignIn">
+        <h3>Вход</h3>
+        <label>Email</label>
+        <input type="email" name="Email" autocomplete="off" required />
+        <label>Пароль</label>
+        <input type="password" name="Password" autocomplete="off" id="password-input" required />
+        <input type="submit" value="Отправить" class="btn btn-primary" />
+        @Html.ValidationMessage("Email")
+    </form>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#password-input').on('input', function () {
+                $(this).val($(this).val().replace(/./g, '*'));
+            });
+        });
+    </script>
+</body>
+</html>

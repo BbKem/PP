@@ -1,0 +1,50 @@
+﻿@model IEnumerable<_4232_pp.Models.Order>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Мои заказы</title>
+    <link rel="stylesheet" href="~/css/Orders.css" />
+</head>
+<body>
+
+    <header>
+        <img src="~/img/логотип.png" alt="logo" width="300" height="50">
+    </header>
+
+    <a href="@Url.Action("Index", "Home")">Вернуться на главную</a>
+
+    <div class="container">
+        <h3>Мои заказы</h3>
+        @if (Model != null && Model.Any())
+        {
+            <table>
+                <tr>
+                    <th>Дата заказа</th>
+                    <th>Продукты</th>
+                    <th>Общая стоимость</th> 
+                </tr>
+                @foreach (var order in Model)
+                {
+                    <tr>
+                        <td>@order.OrderDate</td>
+                        <td>
+                            <ul>
+                                @foreach (var orderDetail in order.OrderDetails)
+                                {
+                                    <li>@orderDetail.Product.Name - Количество: @orderDetail.Quantity - Цена: @orderDetail.Price</li> 
+                                }
+                            </ul>
+                        </td>
+                        <td>@order.OrderDetails.Sum(od => od.Price)</td> 
+                    </tr>
+                }
+            </table>
+        }
+        else
+        {
+            <p>У вас пока нет заказов.</p>
+        }
+    </div>
+</body>
+</html>

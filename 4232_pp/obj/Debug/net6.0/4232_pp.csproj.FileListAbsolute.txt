@@ -1,0 +1,158 @@
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\appsettings.json
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\4232_pp.staticwebassets.runtime.json
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\4232_pp.exe
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\4232_pp.deps.json
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\4232_pp.runtimeconfig.json
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\4232_pp.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\4232_pp.pdb
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.AssemblyInfoInputs.cache
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.AssemblyInfo.cs
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.csproj.CoreCompileInputs.cache
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.RazorAssemblyInfo.cache
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.RazorAssemblyInfo.cs
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\staticwebassets\msbuild.4232_pp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\staticwebassets\msbuild.build.4232_pp.props
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.4232_pp.props
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.4232_pp.props
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\scopedcss\bundle\4232_pp.styles.css
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\scopedcss\projectbundle\4232_pp.bundle.scp.css
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\refint\4232_pp.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.pdb
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.genruntimeconfig.cache
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\ref\4232_pp.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.csproj.AssemblyReference.cache
+C:\Users\ignat\source\repos\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.csproj.CopyComplete
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\appsettings.json
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\4232_pp.staticwebassets.runtime.json
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\4232_pp.exe
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\4232_pp.deps.json
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\4232_pp.runtimeconfig.json
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\4232_pp.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\4232_pp.pdb
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.csproj.AssemblyReference.cache
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.AssemblyInfoInputs.cache
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.AssemblyInfo.cs
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.csproj.CoreCompileInputs.cache
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.RazorAssemblyInfo.cache
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.RazorAssemblyInfo.cs
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\staticwebassets\msbuild.4232_pp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\staticwebassets\msbuild.build.4232_pp.props
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.4232_pp.props
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.4232_pp.props
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\scopedcss\bundle\4232_pp.styles.css
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\scopedcss\projectbundle\4232_pp.bundle.scp.css
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.csproj.CopyComplete
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\refint\4232_pp.dll
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.pdb
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\4232_pp.genruntimeconfig.cache
+C:\Users\ignat\OneDrive\Рабочий стол\4232_pp\4232_pp\obj\Debug\net6.0\ref\4232_pp.dll

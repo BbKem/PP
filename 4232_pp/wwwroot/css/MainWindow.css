@@ -1,0 +1,312 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    height: 100px; 
+    display: flex;
+    background-color: black;
+}
+
+.headerLogo {
+    display: block;
+    padding-top: 25px;
+}
+
+.headerMenu1 {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.headerMenu1 a {
+        color: white;
+        text-decoration: none;
+        font-size: 23px;
+}
+.headerMenu2 {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.headerMenu1 p, .headerMenu2 p {
+    margin: 0 10px;
+    font-size: 23px;
+}
+
+.fon {
+    background-image: url('/img/plastic-bottle-pills.jpg');
+    height: 100vh;
+    display: flex;
+    background-size: cover;
+}
+
+.sloganWrapper {
+    color: white;
+    padding-left:100px;
+    padding-top:150px;
+}
+
+.slogan {
+    font-size:48px;
+    font-weight:bold;
+    padding-left:50px;
+}
+
+.sloganniz{
+    font-size:23px;
+    margin-top:-20px;
+}
+
+.sloganP {
+    padding-left: 45px;
+    margin-top: -40px;
+}
+
+#product {
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    border: 5px solid blue;
+}
+
+#product a {
+     color: white;
+     text-decoration: none; 
+}
+
+#product:hover {
+     background-color: darkblue;
+}
+
+.bdbutton{
+    padding-left:242px;
+}
+
+
+.advantages {
+    text-align: center;
+    height: 75vh;
+}
+
+.advantages h1 {
+     padding-top: 100px;
+     color: black;
+     font-size: 50px;
+     font-weight: bold;
+}
+
+.images {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.image {
+    text-align: center;
+}
+
+.image img {
+     width: 100px;
+     height: 100px;
+     margin-bottom: 10px;
+}
+
+.title {
+    color: black;
+    font-size: 28px;
+}
+
+.description {
+    color: #808080;
+    font-size: 18px;
+}
+
+.container {
+    text-align: center; 
+    margin-top: 50px;
+}
+
+.container h1 {
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.description {
+    color: #808080;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.reviews {
+    display: flex;
+    justify-content: space-around;
+}
+
+.review1 {
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid #f0f0f0; 
+    padding: 5px; 
+}
+
+
+.review2 {
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid #f0f0f0; 
+    padding: 5px; 
+}
+
+.review3 {
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid #f0f0f0; 
+    padding: 5px;
+}
+
+.review1 img {
+   width: 50px;
+   height: 50px;
+   margin-bottom: 10px;
+}
+
+.review2 img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.review3 img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.text {
+    color: black;
+    font-size: 24px;
+}
+
+.name {
+    color: #808080;
+    font-size: 18px;
+}
+
+.fon2 {
+    background-image: url('/img/fon2.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.content {
+    color: white;
+}
+
+.content h1 {
+    font-size: 48px;
+}
+
+.content p {
+    font-size: 18px;
+}
+
+.content button {
+        background-color: white;
+        color: blue;
+        padding: 15px 30px; 
+        border: none;
+        border-radius: 20px;
+        cursor: pointer;
+        font-size: 18px; 
+}
+
+.content button:hover {
+    background-color: blue;
+    color: white;
+}
+
+
+.black-bg {
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cotactinfo {
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+
+.cotactinfo p {
+    font-size: 32px;
+    font-weight:bold;
+    margin-bottom: 20px;
+}
+
+.socialMedia {
+    display: flex;
+    padding-left:80px;
+}
+
+.socialMedia img {
+    margin: 0 10px;
+    width:50px;
+}
+
+.headerActions {
+    display: flex;
+    flex-direction: column; 
+    align-items: flex-end; 
+    color: white;
+    margin-right: 20px; 
+    padding-top: 30px;
+}
+
+.headerActions a {
+        margin-bottom: 10px; 
+        color: white; 
+        text-decoration: none;
+}
+
+.bdbutton {
+    display: flex;
+    align-items: center; /* Выравнивание содержимого по вертикали */
+}
+
+    .bdbutton form {
+        margin-right: 0px; /* Отступ справа для выравнивания с надписью "Профиль" */
+    }
+
+    .bdbutton button {
+        background-color: #007bff; /* Синий цвет кнопки */
+        color: white;
+        padding: 5px 10px; /* Уменьшение размера кнопки */
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 13px; /* Уменьшение размера шрифта */
+    }
+
+        .bdbutton button:hover {
+            background-color: #0056b3; /* Темно-синий цвет при наведении */
+        }
+
